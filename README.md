@@ -12,3 +12,6 @@ Na Segunda APi, é utilizado VS Code o localhost é: `localhost:8080` é usado b
 <br>
 Documentação na nuvem pelo heroku + swagger [>>>Documentação API (Swagger)<<<](https://app-modeloapi.herokuapp.com/swagger-ui.html#/produto45controller)<br> 
 Heroku /GetAll [>>>Heroku<<<](https://app-modeloapi.herokuapp.com/api/v1/produtos) 
+
+<p align="center"><strong>Arquitetura API REST</strong></p>
+<img align="left" src="arquitetura/arquitetura-api.JPG" />
