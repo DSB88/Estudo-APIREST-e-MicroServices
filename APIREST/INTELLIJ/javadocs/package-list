@@ -1,0 +1,11 @@
+com.gft.cursoudemy
+com.gft.cursoudemy.config
+com.gft.cursoudemy.controller
+com.gft.cursoudemy.dto.handlers
+com.gft.cursoudemy.dto.model
+com.gft.cursoudemy.handlerexception
+com.gft.cursoudemy.handlerexception.error
+com.gft.cursoudemy.handlerexception.exception
+com.gft.cursoudemy.model
+com.gft.cursoudemy.repository
+com.gft.cursoudemy.service
